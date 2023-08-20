@@ -1,2 +1,2 @@
-buat file hello.txt
 Say hello guys
+
