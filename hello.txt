@@ -1,2 +1,2 @@
-buat file hello.txt
-Everyone say hello
+Say hello guys
+
